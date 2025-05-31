@@ -1,4 +1,4 @@
-# PyNumDiff
+# PyNumDiff  
 
 Python methods for numerical differentiation of noisy data, including multi-objective optimization routines for automated parameter selection.
 
